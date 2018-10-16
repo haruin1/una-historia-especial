@@ -1,5 +1,5 @@
 [//]: # (Esta es respuesta de: tomar-pepto.md)
-[//]: # (agregar la historia, para ir a: )
+[//]: # (agregar la historia, para ir a: estudiar-calculo.md)
 [//]: # (alguno otro de tu preferencia)
 [//]: # (alguno otro de tu preferencia)
 [//]: # (alguno otro de tu preferencia)
